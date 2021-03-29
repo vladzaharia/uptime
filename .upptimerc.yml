@@ -19,6 +19,9 @@ sites:
     url: https://vpn.zhr.one
   - name: Mattermost
     url: https://chat.zhr.one
+  - name: Murmur
+    check: tcp-ping
+    url: mrmr.zhr.one:64738
   - name: Calibri
     url: https://books.zhr.one
   - name: Ferdi
@@ -41,7 +44,7 @@ sites:
   - name: The Mix Site
     url: https://www.themixowners.com
   - name: The Mix Invoicing
-    url: https://invoice.themixowner
+    url: https://invoice.themixowners.com
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
