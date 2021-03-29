@@ -13,8 +13,6 @@ sites:
     url: https://asset.zhr.one
   - name: ZeroTier
     url: https://network.zhr.one
-  - name: ZeroTier
-    url: https://network.zhr.one
   - name: Subspace
     url: https://vpn.zhr.one
   - name: Mattermost
