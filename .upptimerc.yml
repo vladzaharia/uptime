@@ -5,6 +5,8 @@ repo: uptime # Your Github repository name
 
 # Add your sites here
 sites:
+  - name: vlad.gg
+    url: https://vlad.gg
   - name: Dashboard
     url: https://dash.zhr.one
   #- name: 3CX
