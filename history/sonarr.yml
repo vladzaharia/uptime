@@ -1,7 +1,7 @@
 url: https://sonarr.zhr.one
-status: down
-code: 502
-responseTime: 475
-lastUpdated: 2021-06-06T23:27:44.419Z
+status: up
+code: 200
+responseTime: 129
+lastUpdated: 2021-06-07T06:20:10.434Z
 startTime: Mon Mar 29 2021 07:18:37 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
