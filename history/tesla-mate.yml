@@ -1,7 +1,7 @@
 url: $TESLAMATE_SITE
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2021-07-15T01:01:01.954Z
+status: up
+code: 200
+responseTime: 256
+lastUpdated: 2021-07-15T02:04:02.020Z
 startTime: Mon Mar 29 2021 07:18:44 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
