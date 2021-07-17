@@ -1,7 +1,7 @@
 url: $TESLAMATE_GRAFANA_SITE
 status: up
 code: 200
-responseTime: 390
-lastUpdated: 2021-07-16T23:13:53.953Z
+responseTime: 340
+lastUpdated: 2021-07-17T23:14:19.146Z
 startTime: Mon Mar 29 2021 07:18:44 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
