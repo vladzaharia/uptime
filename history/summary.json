@@ -139,7 +139,7 @@
     "time": 691,
     "timeDay": 805,
     "timeWeek": 632,
-    "timeMonth": 1091,
+    "timeMonth": 1132,
     "timeYear": 691,
     "dailyMinutesDown": {}
   },
@@ -294,7 +294,7 @@
     "url": "https://www.themixowners.com",
     "icon": "https://favicons.githubusercontent.com/www.themixowners.com",
     "slug": "the-mix-site",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
