@@ -1,7 +1,7 @@
 url: https://radarr.zhr.one
-status: down
-code: 502
-responseTime: 498
-lastUpdated: 2021-08-20T06:42:13.606Z
+status: up
+code: 200
+responseTime: 814
+lastUpdated: 2021-08-20T06:56:13.621Z
 startTime: Mon Mar 29 2021 07:18:38 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
