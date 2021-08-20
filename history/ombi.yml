@@ -1,7 +1,7 @@
 url: https://ombi.zhr.one
-status: down
-code: 502
-responseTime: 3590
-lastUpdated: 2021-08-20T06:42:23.836Z
+status: up
+code: 200
+responseTime: 621
+lastUpdated: 2021-08-20T06:56:14.615Z
 startTime: Mon Mar 29 2021 07:18:43 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
