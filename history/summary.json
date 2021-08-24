@@ -303,7 +303,7 @@
     "time": 645,
     "timeDay": 547,
     "timeWeek": 646,
-    "timeMonth": 566,
+    "timeMonth": 561,
     "timeYear": 645,
     "dailyMinutesDown": {}
   },
@@ -312,7 +312,7 @@
     "url": "https://invoice.themixowners.com",
     "icon": "https://favicons.githubusercontent.com/invoice.themixowners.com",
     "slug": "the-mix-invoicing",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
