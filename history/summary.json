@@ -4,7 +4,7 @@
     "url": "https://vlad.gg",
     "icon": "https://favicons.githubusercontent.com/vlad.gg",
     "slug": "vlad-gg",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -302,7 +302,7 @@
     "uptimeYear": "100.00%",
     "time": 635,
     "timeDay": 419,
-    "timeWeek": 586,
+    "timeWeek": 610,
     "timeMonth": 580,
     "timeYear": 635,
     "dailyMinutesDown": {}
@@ -320,7 +320,7 @@
     "uptimeYear": "100.00%",
     "time": 443,
     "timeDay": 267,
-    "timeWeek": 522,
+    "timeWeek": 383,
     "timeMonth": 424,
     "timeYear": 443,
     "dailyMinutesDown": {}
